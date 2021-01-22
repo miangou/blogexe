@@ -1,7 +1,6 @@
 This is a markdown file. 
 
-这是BLOG.exe自动生成的默认内容，但本行不是
+上面是默认md文件语句，但这行不是
 
-[DOWNLOAD](https://miangou.lanzoux.com/iE9Sukpibyd
+[DOWNLOAD](https://miangou.lanzoux.com/iX01wkpjkuj
 )
-
