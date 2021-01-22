@@ -1,2 +1,0 @@
-# blog.exe
-blog.exe
