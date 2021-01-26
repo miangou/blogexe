@@ -1,5 +1,5 @@
 @echo off
-::ÇëÉèÖÃpathÎª×Ô¼ºµÄ²Ö¿âÃû
+::è¯·è®¾ç½®pathä¸ºè‡ªå·±çš„ä»“åº“å
 set path=blogexe
 blog.exe
 cd %path%
