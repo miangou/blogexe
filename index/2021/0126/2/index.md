@@ -1,1 +1,1 @@
-This is a markdown file. 
+[启动脚本](https://github.com/miangou/blogexe/blob/main/code/start_chinese.bat)
